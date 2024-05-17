@@ -1,7 +1,6 @@
-### Hi there 👋
-# Welcome to My GitHub Profile
+#💫 About Me:
 
-Hello! I'm Adel Dsouza, a passionate and driven computer science student at Manipal Institute of Technology, set to graduate in 2026. My journey in technology started early, and I have been honing my skills in various areas of computer science ever since.
+Hello👋! I'm Adel Dsouza, a passionate and driven computer science student at Manipal Institute of Technology, set to graduate in 2026. My journey in technology started early, and I have been honing my skills in various areas of computer science ever since.
 
 When I'm not coding, I enjoy indulging in a range of hobbies. Cooking is a passion of mine, and I love experimenting with new recipes and cuisines. Reading books, which mostly includes fiction, provides me with relaxation and new perspectives. Additionally, I find joy and creativity in dancing, which allows me to express myself and stay active.
 
