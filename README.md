@@ -9,7 +9,7 @@ When I'm not coding, I enjoy indulging in a range of hobbies. Cooking, Reading b
 Feel free to explore my repositories to see some of the work I've done, and don't hesitate to reach out if you'd like to connect or collaborate!
 
 
-## Contact:
+## 🌐Contact:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adel-dsouza-6a654b305/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_adelsd_)
