@@ -16,6 +16,7 @@ Feel free to explore my repositories to see some of the work I've done, and don'
 ![Adel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Addysd)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Addysd)
+
 <!--
 **Addysd/Addysd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
