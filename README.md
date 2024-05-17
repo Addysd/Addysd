@@ -1,4 +1,4 @@
-#💫 About Me:
+# 💫 About Me:
 
 Hello👋! I'm Adel Dsouza, a passionate and driven computer science student at Manipal Institute of Technology, set to graduate in 2026. My journey in technology started early, and I have been honing my skills in various areas of computer science ever since.
 
