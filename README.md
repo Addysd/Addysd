@@ -13,7 +13,7 @@ Feel free to explore my repositories to see some of the work I've done, and don'
 - [LinkedIn](https://www.linkedin.com/in/adel-dsouza-6a654b305/)
 - [Email](mailto:adeldsouza8@gmail.com)
   
-![Adel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Addysd)
+![Adel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Addysd&theme=radical&show_icons=true)
 
 
 ## GitHub Trophies
