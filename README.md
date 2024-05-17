@@ -35,9 +35,9 @@ Feel free to explore my repositories to see some of the work I've done, and don'
 ## 🏆 GitHub Trophies:
 ![trophy](https://github-profile-trophy.vercel.app/?username=Addysd&theme=onedark)
 
-<--
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Addysd)
--->
+
 
 
 <!--
