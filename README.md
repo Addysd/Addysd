@@ -13,23 +13,26 @@ Feel free to explore my repositories to see some of the work I've done, and don'
 - [LinkedIn](https://www.linkedin.com/in/adel-dsouza-6a654b305/)
 - [Email](mailto:adeldsouza8@gmail.com)
 
-## 📊 GitHub Stats:  
+# 💻Tech Stack
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)](https://www.javascript.com/)
+[![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white)](https://www.java.com/)
+[![Git](https://img.shields.io/badge/-Git-red?logo=git&logoColor=white)](https://git-scm.com/)
+[![C](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![SQL](https://img.shields.io/badge/-SQL-blue?logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![Canva](https://img.shields.io/badge/-Canva-blue?logo=canva&logoColor=white)](https://www.canva.com/)
+[![GitHub Pages](https://img.shields.io/badge/-GitHub_Pages-green?logo=github&logoColor=white)](https://pages.github.com/)
+
+### 📊 GitHub Stats:  
 ![Adel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Addysd&theme=radical&show_icons=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Addysd&theme=dark)
 
 ## 🏆 GitHub Trophies:
 ![trophy](https://github-profile-trophy.vercel.app/?username=Addysd&theme=onedark)
 
-# Tech Stack
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)](https://www.javascript.com/)
-[![React.js](https://img.shields.io/badge/-React.js-blue?logo=react&logoColor=white)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white)](https://nodejs.org/)
-[![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
-[![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
-[![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white)](https://www.java.com/)
-[![Git](https://img.shields.io/badge/-Git-red?logo=git&logoColor=white)](https://git-scm.com/)
 
 <!--
 **Addysd/Addysd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
