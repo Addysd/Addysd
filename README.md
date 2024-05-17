@@ -20,6 +20,17 @@ Feel free to explore my repositories to see some of the work I've done, and don'
 ## 🏆 GitHub Trophies:
 ![trophy](https://github-profile-trophy.vercel.app/?username=Addysd&theme=onedark)
 
+# Tech Stack
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)](https://www.javascript.com/)
+[![React.js](https://img.shields.io/badge/-React.js-blue?logo=react&logoColor=white)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white)](https://www.java.com/)
+[![Git](https://img.shields.io/badge/-Git-red?logo=git&logoColor=white)](https://git-scm.com/)
+
 <!--
 **Addysd/Addysd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
