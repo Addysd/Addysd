@@ -10,8 +10,10 @@ Feel free to explore my repositories to see some of the work I've done, and don'
 
 
 ## Contact
-- [LinkedIn](https://www.linkedin.com/in/adel-dsouza-6a654b305/)
-- [Email](mailto:adeldsouza8@gmail.com)
+-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterUsername)
+-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adel-dsouza-6a654b305/))
+-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YourInstagramUsername)
+
 
 # 💻Tech Stack
 
