@@ -15,15 +15,16 @@ Feel free to explore my repositories to see some of the work I've done, and don'
 
 # 💻Tech Stack
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)](https://www.javascript.com/)
-[![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
-[![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
-[![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white)](https://www.java.com/)
-[![Git](https://img.shields.io/badge/-Git-red?logo=git&logoColor=white)](https://git-scm.com/)
-[![C](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![SQL](https://img.shields.io/badge/-SQL-blue?logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
-[![Canva](https://img.shields.io/badge/-Canva-blue?logo=canva&logoColor=white)](https://www.canva.com/)
-[![GitHub Pages](https://img.shields.io/badge/-GitHub_Pages-green?logo=github&logoColor=white)](https://pages.github.com/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com/)
+[![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Git](https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![C](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![SQL](https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![Canva](https://img.shields.io/badge/-Canva-blue?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
+[![GitHub Pages](https://img.shields.io/badge/-GitHub_Pages-green?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
+
 
 ### 📊 GitHub Stats:  
 ![Adel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Addysd&theme=radical&show_icons=true)
