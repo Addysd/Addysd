@@ -1,10 +1,10 @@
 # 💫 About Me:
 
-Hello👋! Welcome to my GitHub page. I'm Adel Dsouza, a passionate and driven computer science student at Manipal Institute of Technology, set to graduate in 2026. 
+Hello👋! Welcome to my GitHub page. I'm Adel Dsouza, a passionate computer science student at Manipal Institute of Technology, set to graduate in 2026. 
 
 I'm thrilled to be part of the GitHub community, where I can connect with fellow developers and collaborate on innovative projects. My passion for computer science drives me to continually explore new technologies, solve complex problems, and contribute to the ever-evolving world of software development.
 
-When I'm not coding, I enjoy indulging in a range of hobbies. Cooking, Reading books, which mostly includes fiction, provides me with relaxation. Additionally, I find joy and creativity in dancing. I also love watching new series and movies, always on the lookout for captivating stories and characters.
+When I'm not coding, I enjoy indulging in a range of hobbies. Cooking, dancing, Reading books, which mostly includes fiction, provides me with relaxation. I also love watching new series and movies, always on the lookout for captivating stories and characters.
 
 Feel free to explore my repositories to see some of the work I've done, and don't hesitate to reach out if you'd like to connect or collaborate!
 
@@ -30,7 +30,7 @@ Feel free to explore my repositories to see some of the work I've done, and don'
 
 ## 📊 GitHub Stats:  
 ![Adel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Addysd&theme=radical&show_icons=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Addysd&theme=dark)
+
 
 ## 🏆 GitHub Trophies:
 ![trophy](https://github-profile-trophy.vercel.app/?username=Addysd&theme=onedark)
