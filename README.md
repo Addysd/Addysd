@@ -23,6 +23,7 @@ Feel free to explore my repositories to see some of the work I've done, and don'
 [![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Git](https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![C](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![SQL](https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![Canva](https://img.shields.io/badge/-Canva-blue?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
 [![GitHub Pages](https://img.shields.io/badge/-GitHub_Pages-green?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
