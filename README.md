@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hello👋! Welcome to my GitHub page. I'm Adel Dsouza, a passionate computer science student at Manipal Institute of Technology, set to graduate in 2026. 
+Hello👋! Welcome to my GitHub page. I'm Adel Dsouza, a computer science student at Manipal Institute of Technology, set to graduate in 2026. 
 
 I'm thrilled to be part of the GitHub community, where I can connect with fellow developers and collaborate on innovative projects. My passion for computer science drives me to continually explore new technologies, solve complex problems, and contribute to the ever-evolving world of software development.
 
