@@ -30,18 +30,18 @@ Feel free to explore my repositories to see some of the work I've done, and don'
 [![Embedded C](https://img.shields.io/badge/-Embedded_C-blue?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/Embedded_C)
 [![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 
-
+<!--
 
 ## 📊 GitHub Stats:  
 ![Adel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Addysd&theme=radical&show_icons=true)
-
+-->
 
 ## 🏆 GitHub Trophies:
 ![trophy](https://github-profile-trophy.vercel.app/?username=Addysd&theme=onedark)
 
 
-<!--![Profile Views](https://komarev.com/ghpvc/?username=Addysd)
--->
+![Profile Views](https://komarev.com/ghpvc/?username=Addysd)
+
 
 
 <!--
