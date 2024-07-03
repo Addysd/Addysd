@@ -29,7 +29,11 @@ Feel free to explore my repositories to see some of the work I've done, and don'
 [![GitHub Pages](https://img.shields.io/badge/-GitHub_Pages-green?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
 [![Embedded C](https://img.shields.io/badge/-Embedded_C-blue?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/Embedded_C)
 [![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
-
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
+[![React Hooks](https://img.shields.io/badge/React%20Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/docs/hooks-intro.html)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 <!--
 
 ## 📊 GitHub Stats:  
