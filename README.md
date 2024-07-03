@@ -4,16 +4,14 @@ Hello👋! Welcome to my GitHub page. I'm Adel Dsouza, a computer science studen
 
 I'm thrilled to be part of the GitHub community, where I can connect with fellow developers and collaborate on innovative projects. My passion for computer science drives me to continually explore new technologies, solve complex problems, and contribute to the ever-evolving world of software development.
 
-When I'm not coding, I enjoy indulging in a range of hobbies. Cooking, dancing, Reading books, which mostly includes fiction, provides me with relaxation. I also love watching new series and movies, always on the lookout for captivating stories and characters.
+When I'm not coding, I enjoy indulging in a range of hobbies that include cooking, dancing, Reading fictional books and watching new series and movies.
 
 Feel free to explore my repositories to see some of the work I've done, and don't hesitate to reach out if you'd like to connect or collaborate!
-
 
 ## 🌐Contact:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adel-dsouza-6a654b305/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_adelsd_)
-
 
 # 💻Tech Stack
 
@@ -42,7 +40,6 @@ Feel free to explore my repositories to see some of the work I've done, and don'
 
 ## 🏆 GitHub Trophies:
 ![trophy](https://github-profile-trophy.vercel.app/?username=Addysd&theme=onedark)
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Addysd)
 
