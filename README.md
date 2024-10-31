@@ -18,6 +18,7 @@ Feel free to explore my repositories to see some of the work I've done, and don'
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![Git](https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
@@ -27,12 +28,15 @@ Feel free to explore my repositories to see some of the work I've done, and don'
 [![Canva](https://img.shields.io/badge/-Canva-blue?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
 [![GitHub Pages](https://img.shields.io/badge/-GitHub_Pages-green?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
 [![Embedded C](https://img.shields.io/badge/-Embedded_C-blue?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/Embedded_C)
+[![Render](https://img.shields.io/badge/-Render-blue?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
 [![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
 [![React Hooks](https://img.shields.io/badge/React%20Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/docs/hooks-intro.html)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Canva](https://img.shields.io/badge/-Canva-blue?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
+
 <!--[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)-->
 <!--[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)-->
 
