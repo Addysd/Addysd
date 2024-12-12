@@ -9,9 +9,9 @@
 
 
 ## 🌐Contact Me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![Instagram](https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-profile)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adel-dsouza-6a654b305/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_adelsd_)
 
 # 💻Tech Stack
 
