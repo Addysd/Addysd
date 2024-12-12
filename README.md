@@ -10,7 +10,7 @@
 
 ## 🌐Contact Me:
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/adel-dsouza-6a654b305)  [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30">](https://www.instagram.com/_adelsd_/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="40" height="40">](https://www.linkedin.com/in/adel-dsouza-6a654b305)  [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40">](https://www.instagram.com/_adelsd_/)
 
 
 
