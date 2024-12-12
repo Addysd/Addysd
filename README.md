@@ -1,5 +1,7 @@
-# Hi 👋, I'm Adel Sarah Dsouza  
-I am a Computer Science Student at MIT Manipal, India.  
+<div align="center">
+  <h1>Hi 👋, I'm Adel Sarah Dsouza</h1>
+  <p>I am a Computer Science student at MIT Manipal, India.</p>
+</div> 
 
 🌱 I’m currently learning the MERN stack and improving my DSA skills.
 
