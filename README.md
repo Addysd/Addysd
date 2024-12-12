@@ -9,8 +9,9 @@
 
 
 ## 🌐Contact Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Instagram](https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?logo=linkedin&logoColor=0A66C2&style=flat-square)](https://www.linkedin.com/in/your-profile)
+[![Instagram](https://img.shields.io/badge/-Instagram-white?logo=instagram&logoColor=E4405F&style=flat-square)](https://www.instagram.com/your-profile)
+
 
 
 # 💻Tech Stack
