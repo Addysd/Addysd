@@ -3,7 +3,7 @@ I am a Computer Science Student at MIT Manipal, India.
 
 🌱 I’m currently learning the MERN stack and improving my DSA skills.
 
-📫 How to reach me: [adeldsouza8@gmail.com].
+📫 How to reach me: adeldsouza8@gmail.com.
 
 
 ## 🌐Contact Me:
