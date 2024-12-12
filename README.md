@@ -1,14 +1,12 @@
-# 💫 About Me:
+# Hi 👋, I'm Adel Sarah Dsouza  
+I am a Computer Science Student at MIT Manipal, India.  
 
-Hello👋! Welcome to my GitHub page. I'm Adel Dsouza, a computer science student at Manipal Institute of Technology, set to graduate in 2026. 
+🌱 I’m currently learning the MERN stack and improving my DSA skills.
 
-I'm thrilled to be part of the GitHub community, where I can connect with fellow developers and collaborate on innovative projects. My passion for computer science drives me to continually explore new technologies, solve complex problems, and contribute to the ever-evolving world of software development.
+📫 How to reach me: [adeldsouza8@gmail.com].
 
-When I'm not coding, I enjoy indulging in a range of hobbies that include cooking, dancing, Reading fictional books and watching new series and movies.
 
-Feel free to explore my repositories to see some of the work I've done, and don't hesitate to reach out if you'd like to connect or collaborate!
-
-## 🌐Contact:
+## 🌐Contact Me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adel-dsouza-6a654b305/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_adelsd_)
@@ -39,6 +37,8 @@ Feel free to explore my repositories to see some of the work I've done, and don'
 [![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Postman](https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+
 
 <!--[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)-->
 
