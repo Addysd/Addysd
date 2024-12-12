@@ -9,8 +9,9 @@
 
 
 ## 🌐Contact Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?logo=linkedin&logoColor=0A66C2&style=flat-square)](https://www.linkedin.com/in/your-profile)
-[![Instagram](https://img.shields.io/badge/-Instagram-white?logo=instagram&logoColor=E4405F&style=flat-square)](https://www.instagram.com/your-profile)
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30">](www.linkedin.com/in/adel-dsouza-6a654b305)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="30" height="30">](www.instagram.com/_adelsd_/)
 
 
 
