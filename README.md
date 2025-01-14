@@ -20,6 +20,8 @@
 [![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![Git](https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
