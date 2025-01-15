@@ -29,7 +29,7 @@
 [![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![SQL](https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![Canva](https://img.shields.io/badge/-Canva-blue?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
-[![JWT](https://img.shields.io/badge/JWT-JSON%20Web%20Token-blue)](https://jwt.io/)
+[![JWT](https://img.shields.io/badge/-JWT-blue?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
 [![GitHub Pages](https://img.shields.io/badge/-GitHub_Pages-green?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
 [![Embedded C](https://img.shields.io/badge/-Embedded_C-blue?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/Embedded_C)
 [![Render](https://img.shields.io/badge/-Render-blue?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
